@@ -1,2 +1,2 @@
-# megra-public-samples
-a basic sample set to follow the megra tutorial
+# Mégra Public Samples
+A basic sample set to follow the megra tutorial.
